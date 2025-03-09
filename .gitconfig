@@ -1,0 +1,12 @@
+[core]
+	editor = vim
+	autocrlf = input
+[user]
+	name = Ali Gökçe
+	email = 44004718+aligokce@users.noreply.github.com
+[color]
+	ui = auto
+[pull]
+	ff = only  # no auto-merge, fast-forward only
+[include]
+	path = ~/.gitconfig.local
